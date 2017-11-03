@@ -34,7 +34,7 @@ iOS Development
     - React StyleSheet API
     - Writing Native and react code to work together 
 
-   - Server and Backend Solution 
+ - Server and Backend Solution 
     - Node
     - Express 
     - Parse Server
