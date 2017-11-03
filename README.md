@@ -1,30 +1,30 @@
 # developer-checklist
 check list
 iOS Development
--iOS platform architecture 
+- iOS platform architecture 
 - design guidelines 
 - Design patterns 
--Objective C - 
-    Syntax 
-    collection
-    maicros
-    UI Design 
-    various event handling 
-    Design patterns and implementation
+- Objective C - 
+    - Syntax 
+    - collection
+    - maicros
+    - UI Design 
+    - various event handling 
+    - Design patterns and implementation
 - Swift 
-    Syntax 
-    Unique feature of Swift 
-    collection
-    maicros
-    UI Design 
-    various event handling 
-    Design patterns and implementation 
+    - Syntax 
+    - Unique feature of Swift 
+    - collection
+    - maicros
+    - UI Design 
+    - various event handling 
+    - Design patterns and implementation 
 
  - Notification service
  - In App purchases 
  - Apple Pay
 
-Hybrid Solution
+- Hybrid Solution
     - React Native
     - JSX
     - JavaScript ES6
@@ -34,7 +34,7 @@ Hybrid Solution
     - React StyleSheet API
     - Writing Native and react code to work together 
 
-   Server and Backend Solution 
+   - Server and Backend Solution 
     - Node
     - Express 
     - Parse Server
